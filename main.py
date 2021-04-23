@@ -1,4 +1,3 @@
-#!/usr/bin/python3
 # -*- coding: utf-8 -*-
 from aiogram import Bot, Dispatcher, executor, types
 from aiogram.types import ContentType
